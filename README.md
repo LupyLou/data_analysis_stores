@@ -1,4 +1,4 @@
-# 📊 Análisis de Datos – 
+# 📊 Análisis de Datos – Data Analysis Stores
 
 Este proyecto tiene como objetivo realizar un análisis de datos para obtener insights acerca de la rentabilidad de cada tienda y con base en eso decidir que tienda podría ser considerada para su cierre
 
